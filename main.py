@@ -18,7 +18,6 @@ import discord
 from discord.ext import commands
 from discord.ext import tasks
 import asyncio
-from keep_alive import keep_alive
 import requests
 from discord_webhook import DiscordWebhook
 cid = 788760352543866903#dont put quotes around the channel id
@@ -33,7 +32,7 @@ import time
 #mon_url=input('url')
 gg = open('caught.txt', 'a')
 import random
-#cid = 828901409196867624
+#cid = 788760352543866903
 client = commands.Bot(command_prefix='.')
 client._skip_check = lambda x, y: False
 @tasks.loop(seconds=0.2)
