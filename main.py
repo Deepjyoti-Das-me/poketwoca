@@ -167,5 +167,4 @@ async def say(ctx, *, args):
  
   await ctx.send(args)
 
-keep_alive()
 client.run(token,bot=False)
