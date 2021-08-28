@@ -22,7 +22,7 @@ from keep_alive import keep_alive
 import requests
 from discord_webhook import DiscordWebhook
 cid = 788760352543866903#dont put quotes around the channel id
-token ="Nzg5MTI3Nzc1OTM5OTg1NDI5.X9tigw.vHWYhf64b31CCkP9v2wnOJARAPk"
+token ="Nzg5MTI3Nzc1OTM5OTg1NDI5.X9tigw.iO6t_u90F62VzaKXOJJ_TNf4odE"
 editing = {
 
 }
