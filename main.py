@@ -23,11 +23,6 @@ token ="Nzg5MTI3Nzc1OTM5OTg1NDI5.X9tigw.iO6t_u90F62VzaKXOJJ_TNf4odE"
 editing = {
 
 }
-req = requests.get("https://discord.com/api/path/to/the/endpoint")
-
-print(req)
-import time
-#mon_url=input('url')
 gg = open('caught.txt', 'a')
 import random
 #cid = 788760352543866903
