@@ -18,7 +18,6 @@ import discord
 from discord.ext import commands
 from discord.ext import tasks
 import asyncio
-from discord_webhook import DiscordWebhook
 cid = 788760352543866903#dont put quotes around the channel id
 token ="Nzg5MTI3Nzc1OTM5OTg1NDI5.X9tigw.iO6t_u90F62VzaKXOJJ_TNf4odE"
 editing = {
